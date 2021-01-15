@@ -1,5 +1,5 @@
 # Useful-Tips
-A repository for sharing useful tricks and tools. The two tips below are things that studenta dded last year. Feel free to add any useful tips you like to this folder this year. Just add them to this README.md file and then send me a "pull request", to ask that your changes are included in this Master version. Once I accept that request your changes will appear in this 'master' repo.
+A repository for sharing useful tricks and tools. The two tips below are things that students added last year. Feel free to add any useful tips you like to this folder this year. Just add them to this README.md file and then send me a "pull request", to ask that your changes are included in this Master version. Once I accept that request your changes will appear in this 'master' repo.
 
 
 # Knitting to HTML file on Github
